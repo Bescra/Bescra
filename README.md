@@ -1,6 +1,7 @@
 # <a href="https://www.linkedin.com/in/rubem-tavares-77900a258/">Rubem</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+ From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm a technology enthusiast with a decade-long foundation who began his journey in programming and software development mainly, I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects, so now being completely dedicated to cybersecurity. Looking for new IT opportunities. CompTIA Security+ certified, building practical skills in Cyber Defense Frameworks, Cyber Threat Intelligence, Threat Hunting, Network Security, Traffic Analysis, Endpoint Security, SIEM, and Digital Forensics & Incident Response. Knowledge of security tools such as Snort, Wireshark, Wazuh, Splunk, Elastic, Autopsy, and KAPE to monitor, analyze, and investigate incidents across Windows and Linux systems.
 
 
 ## ⚠️ Vulnerability Management Projects
