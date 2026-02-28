@@ -9,10 +9,6 @@ I'm a technology enthusiast with a decade-long foundation who began his journey 
 - **[Vulnerability Management Program Implementation](https://github.com/Bescra/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Bescra/Automation-Scripts-PowerShell-)**
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Bescra/threat-hunting-scenario-tor)**
-
 <hr/>
 
 ## 🤳 Connect With Me
